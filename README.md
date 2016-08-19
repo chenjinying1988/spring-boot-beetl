@@ -10,7 +10,7 @@ spring-boot与beetl整合
     <dependency>
         <groupId>cn.kxlove</groupId>
         <artifactId>spring-boot-beetl-</artifactId>
-        <version>1.4.0.RELEASE</version>
+        <version>1.0.0</version>
     </dependency>
 ```
 ####gradle
