@@ -12,6 +12,21 @@
         <module>spring-boot-beetl-samples</module>
     </modules>
 
+    <licenses>
+        <license>
+            <name>Apache License 2.0</name>
+            <url>http://www.apache.org/licenses/LICENSE-2.0</url>
+        </license>
+    </licenses>
+
+    <developers>
+        <developer>
+            <name>童lian话</name>
+            <email>happyzhengkaixin@gmail.com</email>
+            <url>https://github.com/happyhaha1</url>
+        </developer>
+    </developers>
+
     <scm>
         <connection>scm:git:git@github.com:happyhaha1/spring-boot-beetl.git</connection>
         <developerConnection>scm:git:git@github.com:happyhaha1/spring-boot-beetl.git</developerConnection>
