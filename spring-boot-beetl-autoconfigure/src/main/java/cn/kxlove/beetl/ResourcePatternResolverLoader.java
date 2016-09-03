@@ -18,8 +18,8 @@ import java.net.URL;
 import java.util.Map;
 
 /**
- * @author: happyhaha
- * @date: 16/8/19
+ * @author happyhaha
+ * Created on 16/8/19
  */
 public class ResourcePatternResolverLoader implements ResourceLoader {
 

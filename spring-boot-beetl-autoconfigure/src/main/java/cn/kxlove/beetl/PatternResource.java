@@ -8,8 +8,8 @@ import java.io.*;
 import java.net.URL;
 
 /**
- * @author: happyhaha
- * @date: 16/8/19
+ * @author happyhaha
+ * Created on 16/8/19
  */
 public class PatternResource extends Resource {
 

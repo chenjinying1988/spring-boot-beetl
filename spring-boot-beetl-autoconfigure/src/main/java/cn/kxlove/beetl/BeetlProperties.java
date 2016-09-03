@@ -3,8 +3,8 @@ package cn.kxlove.beetl;
 import org.springframework.boot.context.properties.ConfigurationProperties;
 
 /**
- * @author: happyhaha
- * @date: 16/8/19
+ * @author happyhaha
+ * Created on 16/8/19
  */
 @ConfigurationProperties(prefix="beetl")
 public class BeetlProperties {

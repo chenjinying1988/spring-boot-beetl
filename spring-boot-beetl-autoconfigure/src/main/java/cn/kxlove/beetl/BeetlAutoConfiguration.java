@@ -17,8 +17,8 @@ import org.springframework.web.servlet.config.annotation.WebMvcConfigurerAdapter
 
 /**
  * beetl 自动配置
- * @author: happyhaha
- * @date: 16/8/19
+ * @author happyhaha
+ * Created on 16/8/19
  */
 @Configuration
 @EnableConfigurationProperties(BeetlProperties.class)
