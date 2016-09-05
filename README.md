@@ -1,4 +1,7 @@
 # spring-boot-beetl-start 
+
+[![Build Status](https://travis-ci.org/happyhaha1/spring-boot-beetl.svg?branch=master)](https://travis-ci.org/happyhaha1/spring-boot-beetl)
+
 spring-boot与beetl整合
 
 使用spring-boot自动配置功能然后将beetl作为spring的`ViewResolver`
