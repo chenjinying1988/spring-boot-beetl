@@ -1,8 +1,8 @@
 package cn.kxlove;
 
 /**
- * @author 郑开心
- * @date 16/9/5
+ * @author happyhaha
+ * Created on 16/8/19
  */
 public class StringUtil {
 
